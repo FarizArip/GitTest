@@ -1,0 +1,8 @@
+﻿  TugasGaji.cpp
+C:\Users\Fariz F\source\repos\TugasGaji\TugasGaji\TugasGaji.cpp(19,29): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Fariz F\source\repos\TugasGaji\TugasGaji\TugasGaji.cpp(22,29): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Fariz F\source\repos\TugasGaji\TugasGaji\TugasGaji.cpp(25,29): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Fariz F\source\repos\TugasGaji\TugasGaji\TugasGaji.cpp(32,25): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Fariz F\source\repos\TugasGaji\TugasGaji\TugasGaji.cpp(35,25): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Fariz F\source\repos\TugasGaji\TugasGaji\TugasGaji.cpp(38,25): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  TugasGaji.vcxproj -> C:\Users\Fariz F\source\repos\TugasGaji\TugasGaji\x64\Debug\TugasGaji.exe
