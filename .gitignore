@@ -8,6 +8,9 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 *.rar
+TugasGaji/0
+TugasGaji/cls
+TugasGaji/Bukti\ Tugas.png
 
 # User-specific files
 *.rsuser
@@ -28,6 +31,8 @@ mono_crash.*
 [Rr]elease/
 [Rr]eleases/
 x64/
+TugasGaji/x64/
+TugasGaji/TugasGaji/x64/
 x86/
 [Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
