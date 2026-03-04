@@ -10,7 +10,6 @@
 *.rar
 TugasGaji/0
 TugasGaji/cls
-TugasGaji/Bukti\ Tugas.png
 
 # User-specific files
 *.rsuser
@@ -30,7 +29,6 @@ mono_crash.*
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
 TugasGaji/x64/
 TugasGaji/TugasGaji/x64/
 x86/
